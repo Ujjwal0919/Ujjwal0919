@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://twitter.com/ujjwalsaini09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalsaini09?logo=twitter&style=for-the-badge" alt="ujjwalsaini09" /></a> </p>
 
 - 🔭 Right now, I’m deepening my knowledge in advanced cryptography techniques, focusing on how they can be applied to enhance data integrity and trust in IoT ecosystems. I'm also exploring more about Zero Trust Architecture and AI in cybersecurity to stay ahead of emerging threats.
-
+- ❓Ask Me About: Penetration testing strategies for web apps, APIs, and cloud systems, Implementing secure software development frameworks in agile environments, Best practices for securing cloud infrastructure and cloud-native apps,Best practices for securing cloud infrastructure and cloud-native apps
+- 😄 Fun Fact: When I'm not hunting for security vulnerabilities, you can find me exploring escape rooms or trying to crack the toughest brain teasers—there's no puzzle too hard to solve!
 - 📫 How to reach me **ujjwal.saini1905@gmail.com**
 
 - 📄 Know about my experiences [https://azure-loella-1.tiiny.site/](https://azure-loella-1.tiiny.site/)
