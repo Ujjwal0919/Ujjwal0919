@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Saini</h1>
-<h3 align="center">A passionate Cyber security Researcher which interest in Security Engineering, Penetration Testing and VAPT.</h3>
+<h3 align="center">I am an Application Security Engineer with over 3 years of experience specializing in vulnerability management, penetration testing, and cloud security. Currently, I'm working on developing and implementing lightweight security protocols for 5G C-V2X systems, optimizing security for resource-constrained IoT and vehicular networks.I'm passionate about securing applications, cloud infrastructure, and driving innovation in the cybersecurity space. I’m always looking to collaborate on projects related to application security, cloud security, and secure software development practices. If you have interesting challenges in these areas, I’d love to connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal0919&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal0919" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ujjwalsaini09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalsaini09?logo=twitter&style=for-the-badge" alt="ujjwalsaini09" /></a> </p>
 
-- 🔭 I’m currently working on building a lightweight security protocol for 5G based C-V2X communication. **I2D | MSW**
+- 🔭 Right now, I’m deepening my knowledge in advanced cryptography techniques, focusing on how they can be applied to enhance data integrity and trust in IoT ecosystems. I'm also exploring more about Zero Trust Architecture and AI in cybersecurity to stay ahead of emerging threats.
 
-- 📫 How to reach me **saini.ujjwal0519@gmail.com**
+- 📫 How to reach me **ujjwal.saini1905@gmail.com**
 
 - 📄 Know about my experiences [https://azure-loella-1.tiiny.site/](https://azure-loella-1.tiiny.site/)
 
